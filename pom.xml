@@ -108,13 +108,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>divya-snapshot-repo</name>
-	      <url>http://18.208.157.147:8081/#admin/repository/repositories:divya-releaserepo/</url>
+	      <name>divya-release-repo</name>
+	      <url>http://18.208.157.147:8081/repository/divya-releaserepo/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>divya-snapshot-repo</name>
-	      <url>http://18.208.157.147:8081/#admin/repository/repositories:divya-snapshot-repo/</url>
+	      <url>http://18.208.157.147:8081/repository/divya-snapshot-repo/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
