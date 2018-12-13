@@ -113,7 +113,7 @@
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>divyasnapshotrepo/name>
+	      <name>divyasnapshotrepo</name>
 	      <url>http://18.208.157.147:8081/#admin/repository/repositories:divya-snapshot-repo/</url>
 	    </snapshotRepository>
 	</distributionManagement>
